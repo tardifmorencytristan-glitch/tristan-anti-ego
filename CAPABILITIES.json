@@ -1,0 +1,11 @@
+{
+  "schema":"tristan-capabilities-r1",
+  "owner_repo":"tardifmorencytristan-glitch/tristan-anti-ego",
+  "status":"MIGRATION_CANDIDATE",
+  "capabilities":[
+    {"uri":"tristan://capability/anti-ego/origin-blind-court","symbols":["Submission","CourtPolicy","blind_court","reveal"]},
+    {"uri":"tristan://capability/anti-ego/right-to-die","symbols":["VitalityHistory","right_to_die"]},
+    {"uri":"tristan://capability/anti-ego/ablation","symbols":["ablation_value"]}
+  ],
+  "boundary":"Origin is excluded from scoring; this does not prove metric quality or domain validity."
+}
